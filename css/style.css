@@ -1070,6 +1070,7 @@ h4 {
 
 .service-title h2 {
     width: 70%;
+    font-size: 25px;
     display: flex;
     justify-content: center;
     font-weight: bold;
@@ -1082,25 +1083,30 @@ h4 {
 }
 
 .service-desc {
-    font-size: 13px;
+    font-size: 17px;
 }
 
 .citation-title {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
+    font-style: italic;
     padding-right: 0;
 }
 
 .citation-subtitle {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 /* SERVICES */
 
 /* PRESENTATION */
 
-.text-pres {
-    font-size: 13px;
+.text-pres-title {
+    font-size: 25px;
+}
+
+.text-pres-subtitle {
+    font-size: 17px;
 }
 
 /* PRESENTATION */
@@ -1113,13 +1119,13 @@ h4 {
 }
 
 .portfolio-title h3 {
-    font-size: 20px;
+    font-size: 25px;
     text-transform: none;
-    width: 55%;
+    width: 50%;
 }
 
 .text-desc {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 /* PORTFOLIO */
@@ -1206,6 +1212,10 @@ h4 {
         margin-bottom: 10px;
     }
 
+    .portfolio-title h3 {
+        width: 80%;
+    }
+
     .portfolio-card {
         margin-top: 20px;
         margin-bottom: 20px;
@@ -1259,6 +1269,10 @@ h4 {
 
     .portfolio-container h3 {
         margin-bottom: 10px;
+    }
+
+    .portfolio-title h3 {
+        width: 90%;
     }
 
     .portfolio-card {
