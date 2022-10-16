@@ -1080,6 +1080,7 @@ h4 {
 .service-container {
     margin: auto;
     display: flex;
+    width: 70%;
 }
 
 .service-desc {
@@ -1090,7 +1091,7 @@ h4 {
     font-size: 18px;
     font-weight: bold;
     font-style: italic;
-    padding-right: 0;
+    margin: auto;
 }
 
 .citation-subtitle {
@@ -1173,7 +1174,7 @@ h4 {
 
 /* TABLETTE */
 
-@media (max-width: 767px) {
+@media (max-width: 980px) {
     .service-title h2 {
         width: 98%;
         display: flex;
@@ -1198,7 +1199,7 @@ h4 {
     }
 
     .citation-title {
-        width: 98%;
+        width: 95%;
         display: flex;
         justify-content: center;
     }
