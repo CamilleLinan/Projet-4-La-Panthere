@@ -1,5 +1,7 @@
 Projet 4 : La Panthere - OpenClassrooms
 
+![Alt text](/lapanthereCover.webp?raw=true "Cover Booki OpenClassrooms")
+
 + Contexte : 
 La Panthère est une grande agence de web design basée à Lyon. L'activité de l'entreprise est en perte de vitesse et son site web n'apparaît pas en première page des moteurs de recherche.
 
