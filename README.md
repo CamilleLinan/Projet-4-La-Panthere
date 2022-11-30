@@ -1,4 +1,4 @@
-Projet 4 : La Panthere - OpenClassrooms
+# Projet 4 : La Panthere - OpenClassrooms
 
 ![Alt text](/lapanthereCover.webp?raw=true "Cover Booki OpenClassrooms")
 
@@ -10,6 +10,5 @@ Analyser l'état actuel de SEO du site fourni et améliorer les points les plus 
 
 + Langages utilisés : HTML5 / CSS3
 
-Voir le site web : https://camillelinan.github.io/Projet-4-La-Panthere/
-
+Voir le site web : https://camillelinan.github.io/Projet-4-La-Panthere/ <br/>
 Plus d'informations sur mon portfolio : https://camillelinan.com/project/La%20Panthere
